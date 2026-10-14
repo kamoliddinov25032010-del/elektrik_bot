@@ -1,0 +1,36 @@
+# Virtual muhit
+venv/
+env/
+.venv/
+
+# Maxfiy ma'lumotlar
+.env
+
+# Baza
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Loglar
+logs/
+*.log
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Test
+.pytest_cache/
+.coverage
